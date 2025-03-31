@@ -1,7 +1,6 @@
-Problem : https://www.geeksforgeeks.org/problems/count-numbers-divisible-by-m1524/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card
+// Problem : https://www.geeksforgeeks.org/problems/count-numbers-divisible-by-m1524/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card
 
-Solution:
-//User function Template for Java
+
 class Solution {
     static int countDivisibles(int A, int B, int M){
         // code here
