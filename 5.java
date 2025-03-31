@@ -1,5 +1,4 @@
-problem :https://leetcode.com/problems/power-of-three/
-Solution:
+//problem :https://leetcode.com/problems/power-of-three/
 class Solution {
     public boolean isPowerOfThree(int n) {
         if(n<1) return false;
