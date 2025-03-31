@@ -1,5 +1,4 @@
-Problem : https://neetcode.io/problems/is-anagram
-Solution:
+//Problem : https://neetcode.io/problems/is-anagram
 
 class Solution {
     public boolean isAnagram(String s, String t) {
