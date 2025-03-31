@@ -1,5 +1,5 @@
-problem: https://leetcode.com/problems/third-maximum-number/description/
-Solution:
+//problem: https://leetcode.com/problems/third-maximum-number/description/
+
 class Solution {
     public int thirdMax(int[] nums) {
         int a=Integer.MIN_VALUE,b=Integer.MIN_VALUE,c=Integer.MIN_VALUE;
