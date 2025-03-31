@@ -1,7 +1,4 @@
-problem : https://www.geeksforgeeks.org/problems/lcm-and-gcd4516/1?page=1
-solution:
-
-// User function Template for Java
+// problem : https://www.geeksforgeeks.org/problems/lcm-and-gcd4516/1?page=1
 
 class Solution {
     public static int[] lcmAndGcd(int a, int b) {
