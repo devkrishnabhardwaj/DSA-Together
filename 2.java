@@ -1,6 +1,6 @@
-probl3m : https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card
-solution:
-// User function Template for Java
+// probl3m : https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card
+
+
 class Solution {
     // Function to find two elements in array
     ArrayList<Integer> findTwoElement(int arr[]) {
